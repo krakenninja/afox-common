@@ -45,7 +45,7 @@ public class CopyrighterWriterJUnitTest
     @After
     public void tearDown() {}
 
-//    @Ignore
+    @Ignore
     @Test
     public void appendCopyrightText()
     {
